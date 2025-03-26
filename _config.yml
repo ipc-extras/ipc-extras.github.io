@@ -1,8 +1,8 @@
 # Site settings
-title: Instituto Pedagógico Comenio - Laboratorio de Innovación Digital.
+title: Instituto Pedagógico Comenio - Departamento de Actividades Extracurriculares.
 # description: 'Descripción de actividades realizadas en el LID con los estudiantes del IPC'
-description: 'En el umbral de la **revolución tecnológica**, el laboratorio de cómputo evoluciona en un ecosistema de innovación radical. No somos simplemente un espacio con computadoras; somos un portal donde las ideas se convierten en código, los sueños en algoritmos y el conocimiento en transformación. Cada byte, cada línea de código, cada conexión de red representa más que tecnología: son los latidos de un organismo vivo que respira innovación. Aquí, los estudiantes y profesionales no son meros usuarios, son arquitectos de futuros posibles.'
-url: 'https://ipc-lid.github.io'
+description: 'En el Instituto Pedagógico Comenio, creemos en una educación integral que va más allá de las aulas. Nuestras materias extracurriculares —Inglés, Danza y Música— son pilares fundamentales para el desarrollo de habilidades cognitivas, emocionales y sociales en nuestros pequeños.'
+url: 'https://ipc-extras.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
